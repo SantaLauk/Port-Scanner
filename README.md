@@ -110,7 +110,7 @@ Scanned 30/81 ports...
 4. Each thread attempts a TCP connection using Python sockets.
 5. If the connection succeeds, the scanner attempts to retrieve service information using banner grabbing.
 
-This approach reflects the initial reconnaissance phase used by professional network scanning tools such as :contentReference[oaicite:0]{index=0}.
+This approach reflects the initial reconnaissance phase used by professional network scanning tools.
 
 ---
 
